@@ -1,0 +1,20 @@
+.card{
+  width: 600px;
+  height: 400px;
+  display: flex;
+  background-color: blue;
+  color: #fff;
+  justify-content: space-around;
+  
+  flex-direction: column;
+  margin: 0;
+  padding:10px;
+  border-radius: 10px;
+}
+.infos{
+  display: flex;
+  height: 200px;
+  justify-content: space-around;
+  flex-direction: column;
+  margin:10px;
+}
